@@ -1,0 +1,4 @@
+objectdaddy==0.0.4
+rtsparty==0.0.1
+requests==2.26.0
+RPi.GPIO==0.7.0
